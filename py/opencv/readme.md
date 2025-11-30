@@ -1,3 +1,2 @@
-# 실습환경
->파이썬 3.11(파이참 가상환경)
-> opencv
+# 참고 자료
+> https://076923.github.io/posts/Python-opencv-1/
